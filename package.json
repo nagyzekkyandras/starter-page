@@ -1,12 +1,16 @@
 {
   "name": "starter-page",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "docker-build": "docker build -t starter-page .",
+    "docker-run": "docker run --name starter-page -d -p 8080:80 starter-page",
+    "docker-stop": "docker stop starter-page",
+    "docker-rm": "docker rm starter-page"
   },
   "dependencies": {
     "process": "^0.11.10",
