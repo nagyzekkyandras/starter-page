@@ -1,0 +1,183 @@
+[
+    {
+      "link": "https://example.com",
+      "description": "This is an example website.",
+      "icon_url": "https://example.com/icon.png",
+      "group": "Examples"
+    },
+    {
+      "link": "https://openai.com",
+      "description": "OpenAI's official website.",
+      "icon_url": "https://openai.com/favicon.ico",
+      "group": "AI"
+    },
+    {
+      "link": "https://github.com",
+      "description": "GitHub - Where the world builds software.",
+      "icon_url": "https://github.githubassets.com/favicons/favicon.png",
+      "group": "Development"
+    },
+    {
+      "link": "https://vuejs.org",
+      "description": "Vue.js official website.",
+      "icon_url": "https://vuejs.org/images/logo.png",
+      "group": "Development"
+    },
+    {
+      "link": "https://reactjs.org",
+      "description": "React – A JavaScript library for building user interfaces.",
+      "icon_url": "https://reactjs.org/favicon.ico",
+      "group": "Development"
+    },
+    {
+      "link": "https://angular.io",
+      "description": "Angular - The modern web developer's platform.",
+      "icon_url": "https://angular.io/assets/images/favicons/favicon.ico",
+      "group": "Development"
+    },
+    {
+      "link": "https://nodejs.org",
+      "description": "Node.js JavaScript runtime.",
+      "icon_url": "https://nodejs.org/static/images/favicon.png",
+      "group": "Development"
+    },
+    {
+      "link": "https://developer.mozilla.org",
+      "description": "MDN Web Docs - Resources for developers.",
+      "icon_url": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
+      "group": "Documentation"
+    },
+    {
+      "link": "https://wikipedia.org",
+      "description": "Wikipedia, the free encyclopedia.",
+      "icon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "group": "Information"
+    },
+    {
+      "link": "https://stackoverflow.com",
+      "description": "Stack Overflow - Where developers learn and share.",
+      "icon_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico",
+      "group": "Development"
+    },
+    {
+      "link": "https://news.ycombinator.com",
+      "description": "Hacker News - Tech news and discussions.",
+      "icon_url": "https://news.ycombinator.com/favicon.ico",
+      "group": "News"
+    },
+    {
+      "link": "https://twitter.com",
+      "description": "Twitter - See what’s happening.",
+      "icon_url": "https://abs.twimg.com/favicons/twitter.ico",
+      "group": "Social"
+    },
+    {
+      "link": "https://linkedin.com",
+      "description": "LinkedIn - Professional networking.",
+      "icon_url": "https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+      "group": "Social"
+    },
+    {
+      "link": "https://facebook.com",
+      "description": "Facebook - Connect with friends and the world around you.",
+      "icon_url": "https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico",
+      "group": "Social"
+    },
+    {
+      "link": "https://youtube.com",
+      "description": "YouTube - Broadcast yourself.",
+      "icon_url": "https://www.youtube.com/s/desktop/6c1252cf/img/favicon.ico",
+      "group": "Entertainment"
+    },
+    {
+      "link": "https://netflix.com",
+      "description": "Netflix - Watch TV shows online, watch movies online.",
+      "icon_url": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico",
+      "group": "Entertainment"
+    },
+    {
+      "link": "https://spotify.com",
+      "description": "Spotify - Music for everyone.",
+      "icon_url": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+      "group": "Entertainment"
+    },
+    {
+      "link": "https://amazon.com",
+      "description": "Amazon - Online shopping for electronics, apparel, and more.",
+      "icon_url": "https://www.amazon.com/favicon.ico",
+      "group": "Shopping"
+    },
+    {
+      "link": "https://ebay.com",
+      "description": "eBay - Buy and sell electronics, cars, fashion, collectibles & more.",
+      "icon_url": "https://ir.ebaystatic.com/pictures/aw/pics/cfavfavicon.ico",
+      "group": "Shopping"
+    },
+    {
+      "link": "https://github.dev",
+      "description": "GitHub.dev - Instantly edit GitHub repos in VS Code in the browser.",
+      "icon_url": "https://github.githubassets.com/favicons/favicon.png",
+      "group": "Development"
+    },
+    {
+      "link": "https://unsplash.com",
+      "description": "Unsplash - Beautiful free images & pictures.",
+      "icon_url": "https://unsplash.com/favicon.ico",
+      "group": "Design"
+    },
+    {
+      "link": "https://figma.com",
+      "description": "Figma - Collaborative interface design tool.",
+      "icon_url": "https://static.figma.com/app/icon/1/favicon.ico",
+      "group": "Design"
+    },
+    {
+      "link": "https://dribbble.com",
+      "description": "Dribbble - Discover the world’s top designers & creatives.",
+      "icon_url": "https://cdn.dribbble.com/assets/favicon-32x32.png",
+      "group": "Design"
+    },
+    {
+      "link": "https://canva.com",
+      "description": "Canva - Graphic Design Platform.",
+      "icon_url": "https://static.canva.com/static/images/favicon.ico",
+      "group": "Design"
+    },
+    {
+      "link": "https://coursera.org",
+      "description": "Coursera - Build skills with online courses.",
+      "icon_url": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/favicon.ico",
+      "group": "Education"
+    },
+    {
+      "link": "https://edx.org",
+      "description": "edX - Free online courses from top institutions.",
+      "icon_url": "https://www.edx.org/favicon.ico",
+      "group": "Education"
+    },
+    {
+      "link": "https://udemy.com",
+      "description": "Udemy - Online courses on a wide range of topics.",
+      "icon_url": "https://www.udemy.com/staticx/udemy/images/v7/favicon-96x96.png",
+      "group": "Education"
+    },
+    {
+      "link": "https://khanacademy.org",
+      "description": "Khan Academy - Free online courses, lessons & practice.",
+      "icon_url": "https://cdn.kastatic.org/images/favicon.ico",
+      "group": "Education"
+    },
+    {
+      "link": "https://trello.com",
+      "description": "Trello - Organize anything with anyone.",
+      "icon_url": "https://trello.com/favicon.ico",
+      "group": "Productivity"
+    },
+    {
+      "link": "https://notion.so",
+      "description": "Notion - All-in-one workspace for notes, tasks, wikis.",
+      "icon_url": "https://www.notion.so/images/favicon.ico",
+      "group": "Productivity"
+    }
+  ]
+  

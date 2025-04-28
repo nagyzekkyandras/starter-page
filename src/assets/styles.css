@@ -1,0 +1,74 @@
+body {
+    background-color: #f7f9fc;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 2rem;
+  }
+  
+  h1, h2 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* 4-5 cards depending on screen */
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  }
+  
+  .card img {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .card p {
+    margin: 0.5rem 0 0;
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  .group-title {
+    margin-top: 2rem;
+  }
+
+  .search-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  
+  .search-bar {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.6rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }  
+
+  .page-title {
+    text-align: center;
+  }
